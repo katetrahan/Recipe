@@ -6,7 +6,7 @@
     "Kate Trahan <kathrynceciliatrahan@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/katetrahan/Recipe",
   "ignore": [
     "**/.*",
     "node_modules",
